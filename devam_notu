@@ -1,0 +1,7 @@
+son derlemede hata var , kütüphaneler birbiri ile cakisma yaratiyor, kodlarda kütüphanelere bölünürken catallanma oldu duble kod kalintilari var.
+FlexKey_RF kütüphanesi sorunlu , basli basina islevini yerine getirmeyen satirlar var.
+
+1- kütüphaneleri beraber calisabilir noktada stabil tut.
+2- ceviri FlexKey_languages kütüphanesi yeni eklenen kodlarda sabit türkce kaliyor .
+3- _RF kütüphanesi bitince tam calisan sistem olmali kullanici uygunlugunu test et
+4- tüm sistem stabil olunca pcb tasarimina basla (2 kesin +1 PCB & 2+1 3D)
